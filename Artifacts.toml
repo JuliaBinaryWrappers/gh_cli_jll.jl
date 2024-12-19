@@ -1,127 +1,151 @@
 [[gh_cli]]
 arch = "aarch64"
-git-tree-sha1 = "a49c2e55f365f08840c26a0e1164392add8f3126"
+git-tree-sha1 = "0ffa18391ca29e5d33cd2550a835fb80109e2a24"
 os = "macos"
 
     [[gh_cli.download]]
-    sha256 = "e97d09c4dbeb1ca68d54dae5a515a280480a043a6c48e71a9f1abde6fb3ca386"
-    url = "https://github.com/JuliaBinaryWrappers/gh_cli_jll.jl/releases/download/gh_cli-v2.44.1+0/gh_cli.v2.44.1.aarch64-apple-darwin.tar.gz"
+    sha256 = "3cb0db4f08c5a91675d486374e83170f4c4cad22edba046e7988e55386157217"
+    url = "https://github.com/JuliaBinaryWrappers/gh_cli_jll.jl/releases/download/gh_cli-v2.63.2+0/gh_cli.v2.63.2.aarch64-apple-darwin.tar.gz"
 [[gh_cli]]
 arch = "aarch64"
-git-tree-sha1 = "c8a25c65148dd7252dc0a6a3bf9a5ca7fa332ba9"
+git-tree-sha1 = "7c576df3dff296a4cd7a0ff7a61db2415683dfff"
 libc = "glibc"
 os = "linux"
 
     [[gh_cli.download]]
-    sha256 = "3e4d7b32c012b7d10d1ff474232709f253c221cafcbc98a3e41071ce6f34edb2"
-    url = "https://github.com/JuliaBinaryWrappers/gh_cli_jll.jl/releases/download/gh_cli-v2.44.1+0/gh_cli.v2.44.1.aarch64-linux-gnu.tar.gz"
+    sha256 = "9445f560fd60ae675ad383e6d937c929dfd46f54ca9b543069039cd14c5a77d5"
+    url = "https://github.com/JuliaBinaryWrappers/gh_cli_jll.jl/releases/download/gh_cli-v2.63.2+0/gh_cli.v2.63.2.aarch64-linux-gnu.tar.gz"
 [[gh_cli]]
 arch = "aarch64"
-git-tree-sha1 = "c8a25c65148dd7252dc0a6a3bf9a5ca7fa332ba9"
+git-tree-sha1 = "7c576df3dff296a4cd7a0ff7a61db2415683dfff"
 libc = "musl"
 os = "linux"
 
     [[gh_cli.download]]
-    sha256 = "3e4d7b32c012b7d10d1ff474232709f253c221cafcbc98a3e41071ce6f34edb2"
-    url = "https://github.com/JuliaBinaryWrappers/gh_cli_jll.jl/releases/download/gh_cli-v2.44.1+0/gh_cli.v2.44.1.aarch64-linux-musl.tar.gz"
+    sha256 = "9445f560fd60ae675ad383e6d937c929dfd46f54ca9b543069039cd14c5a77d5"
+    url = "https://github.com/JuliaBinaryWrappers/gh_cli_jll.jl/releases/download/gh_cli-v2.63.2+0/gh_cli.v2.63.2.aarch64-linux-musl.tar.gz"
 [[gh_cli]]
-arch = "armv6l"
-call_abi = "eabihf"
-git-tree-sha1 = "d083767acfda637ea4008b410b82b24ea285a856"
-libc = "glibc"
-os = "linux"
-
-    [[gh_cli.download]]
-    sha256 = "bf0bcac3501c93da936a1a750e505862b17f7035170fdb1eafbe160b0b8a0a15"
-    url = "https://github.com/JuliaBinaryWrappers/gh_cli_jll.jl/releases/download/gh_cli-v2.44.1+0/gh_cli.v2.44.1.armv6l-linux-gnueabihf.tar.gz"
-[[gh_cli]]
-arch = "armv6l"
-call_abi = "eabihf"
-git-tree-sha1 = "d083767acfda637ea4008b410b82b24ea285a856"
-libc = "musl"
-os = "linux"
-
-    [[gh_cli.download]]
-    sha256 = "bf0bcac3501c93da936a1a750e505862b17f7035170fdb1eafbe160b0b8a0a15"
-    url = "https://github.com/JuliaBinaryWrappers/gh_cli_jll.jl/releases/download/gh_cli-v2.44.1+0/gh_cli.v2.44.1.armv6l-linux-musleabihf.tar.gz"
-[[gh_cli]]
-arch = "armv7l"
-call_abi = "eabihf"
-git-tree-sha1 = "cca2bf9f50332a5c9c03e88a621631a64ef72b62"
-libc = "glibc"
-os = "linux"
-
-    [[gh_cli.download]]
-    sha256 = "8441bfbc3d3a9c703df05dd3443b1fd0c2fc9560ebaec78177a55f4bf27bb420"
-    url = "https://github.com/JuliaBinaryWrappers/gh_cli_jll.jl/releases/download/gh_cli-v2.44.1+0/gh_cli.v2.44.1.armv7l-linux-gnueabihf.tar.gz"
-[[gh_cli]]
-arch = "armv7l"
-call_abi = "eabihf"
-git-tree-sha1 = "cca2bf9f50332a5c9c03e88a621631a64ef72b62"
-libc = "musl"
-os = "linux"
-
-    [[gh_cli.download]]
-    sha256 = "8441bfbc3d3a9c703df05dd3443b1fd0c2fc9560ebaec78177a55f4bf27bb420"
-    url = "https://github.com/JuliaBinaryWrappers/gh_cli_jll.jl/releases/download/gh_cli-v2.44.1+0/gh_cli.v2.44.1.armv7l-linux-musleabihf.tar.gz"
-[[gh_cli]]
-arch = "i686"
-git-tree-sha1 = "5e1f0efce8bd592c7faed40af7d1663d7fa9cc2f"
-libc = "glibc"
-os = "linux"
-
-    [[gh_cli.download]]
-    sha256 = "6081e85695b1acf82610dfadfec7302c32528cdb17f406caedba27116673a596"
-    url = "https://github.com/JuliaBinaryWrappers/gh_cli_jll.jl/releases/download/gh_cli-v2.44.1+0/gh_cli.v2.44.1.i686-linux-gnu.tar.gz"
-[[gh_cli]]
-arch = "i686"
-git-tree-sha1 = "5e1f0efce8bd592c7faed40af7d1663d7fa9cc2f"
-libc = "musl"
-os = "linux"
-
-    [[gh_cli.download]]
-    sha256 = "6081e85695b1acf82610dfadfec7302c32528cdb17f406caedba27116673a596"
-    url = "https://github.com/JuliaBinaryWrappers/gh_cli_jll.jl/releases/download/gh_cli-v2.44.1+0/gh_cli.v2.44.1.i686-linux-musl.tar.gz"
-[[gh_cli]]
-arch = "powerpc64le"
-git-tree-sha1 = "c4e245bf5a420f587e497478da2ba29e297b4865"
-libc = "glibc"
-os = "linux"
-
-    [[gh_cli.download]]
-    sha256 = "b373af3362cf461ad00e9007d1b42192a895abb7d61c399e5dfdd7d52eceb77d"
-    url = "https://github.com/JuliaBinaryWrappers/gh_cli_jll.jl/releases/download/gh_cli-v2.44.1+0/gh_cli.v2.44.1.powerpc64le-linux-gnu.tar.gz"
-[[gh_cli]]
-arch = "x86_64"
-git-tree-sha1 = "2db47415e9288543f7a6281da9f99be0fc68c037"
-os = "macos"
-
-    [[gh_cli.download]]
-    sha256 = "f0362d271cfcee122506b7ec7e8fe75444875172cc90526b2f3015a37de9fedb"
-    url = "https://github.com/JuliaBinaryWrappers/gh_cli_jll.jl/releases/download/gh_cli-v2.44.1+0/gh_cli.v2.44.1.x86_64-apple-darwin.tar.gz"
-[[gh_cli]]
-arch = "x86_64"
-git-tree-sha1 = "bb40ea37ebd5bdd16bfdecd86cead750706fb2af"
-libc = "glibc"
-os = "linux"
-
-    [[gh_cli.download]]
-    sha256 = "c14257f8961ecded7cf549ebfbd0a5b5d778c8cecba637561bac9668cbe8b526"
-    url = "https://github.com/JuliaBinaryWrappers/gh_cli_jll.jl/releases/download/gh_cli-v2.44.1+0/gh_cli.v2.44.1.x86_64-linux-gnu.tar.gz"
-[[gh_cli]]
-arch = "x86_64"
-git-tree-sha1 = "7d62534ff2a20a726dd3decc364e0ef775b5b6c8"
-libc = "musl"
-os = "linux"
-
-    [[gh_cli.download]]
-    sha256 = "e2b003181fc732b2171d1a137e51b8b6ae95c682258e5df19e499d53f6c62dc5"
-    url = "https://github.com/JuliaBinaryWrappers/gh_cli_jll.jl/releases/download/gh_cli-v2.44.1+0/gh_cli.v2.44.1.x86_64-linux-musl.tar.gz"
-[[gh_cli]]
-arch = "x86_64"
-git-tree-sha1 = "58b1a18c9ed0d8f5db97225be69763c5764f3b4c"
+arch = "aarch64"
+git-tree-sha1 = "ab8f1860a433eabd7221269bbb78829683ca7ce6"
 os = "freebsd"
 
     [[gh_cli.download]]
-    sha256 = "351c1f03efb252067e5ed1848d27dd43256265c382c3a9b70b5019aa42f1389f"
-    url = "https://github.com/JuliaBinaryWrappers/gh_cli_jll.jl/releases/download/gh_cli-v2.44.1+0/gh_cli.v2.44.1.x86_64-unknown-freebsd.tar.gz"
+    sha256 = "bef97d63b172749f21b34941872ecce16fe41a027388e3034fa0af0886b3d266"
+    url = "https://github.com/JuliaBinaryWrappers/gh_cli_jll.jl/releases/download/gh_cli-v2.63.2+0/gh_cli.v2.63.2.aarch64-unknown-freebsd.tar.gz"
+[[gh_cli]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "1388eb51f10b4c9a1eddfb00ee4e882ac3534d11"
+libc = "glibc"
+os = "linux"
+
+    [[gh_cli.download]]
+    sha256 = "51174fc776b6a68d47ad105203124a95bcbad3cf4c1a329c0335a2e38a7b48e2"
+    url = "https://github.com/JuliaBinaryWrappers/gh_cli_jll.jl/releases/download/gh_cli-v2.63.2+0/gh_cli.v2.63.2.armv6l-linux-gnueabihf.tar.gz"
+[[gh_cli]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "1388eb51f10b4c9a1eddfb00ee4e882ac3534d11"
+libc = "musl"
+os = "linux"
+
+    [[gh_cli.download]]
+    sha256 = "51174fc776b6a68d47ad105203124a95bcbad3cf4c1a329c0335a2e38a7b48e2"
+    url = "https://github.com/JuliaBinaryWrappers/gh_cli_jll.jl/releases/download/gh_cli-v2.63.2+0/gh_cli.v2.63.2.armv6l-linux-musleabihf.tar.gz"
+[[gh_cli]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "e45a29bfe9b7c359c0728c6a020880456923cf34"
+libc = "glibc"
+os = "linux"
+
+    [[gh_cli.download]]
+    sha256 = "70bbd33241391bbdfb859d65f38765d495cc6612063c7fbc638e36337e3a865a"
+    url = "https://github.com/JuliaBinaryWrappers/gh_cli_jll.jl/releases/download/gh_cli-v2.63.2+0/gh_cli.v2.63.2.armv7l-linux-gnueabihf.tar.gz"
+[[gh_cli]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "e45a29bfe9b7c359c0728c6a020880456923cf34"
+libc = "musl"
+os = "linux"
+
+    [[gh_cli.download]]
+    sha256 = "70bbd33241391bbdfb859d65f38765d495cc6612063c7fbc638e36337e3a865a"
+    url = "https://github.com/JuliaBinaryWrappers/gh_cli_jll.jl/releases/download/gh_cli-v2.63.2+0/gh_cli.v2.63.2.armv7l-linux-musleabihf.tar.gz"
+[[gh_cli]]
+arch = "i686"
+git-tree-sha1 = "ef0dc1dcc39d95ef63aff8653804e092aa62db0c"
+libc = "glibc"
+os = "linux"
+
+    [[gh_cli.download]]
+    sha256 = "f8adab042914cf2286e9d1268a59346a7ffee5ed25630e8ae027fca72fc400bd"
+    url = "https://github.com/JuliaBinaryWrappers/gh_cli_jll.jl/releases/download/gh_cli-v2.63.2+0/gh_cli.v2.63.2.i686-linux-gnu.tar.gz"
+[[gh_cli]]
+arch = "i686"
+git-tree-sha1 = "ef0dc1dcc39d95ef63aff8653804e092aa62db0c"
+libc = "musl"
+os = "linux"
+
+    [[gh_cli.download]]
+    sha256 = "f8adab042914cf2286e9d1268a59346a7ffee5ed25630e8ae027fca72fc400bd"
+    url = "https://github.com/JuliaBinaryWrappers/gh_cli_jll.jl/releases/download/gh_cli-v2.63.2+0/gh_cli.v2.63.2.i686-linux-musl.tar.gz"
+[[gh_cli]]
+arch = "i686"
+git-tree-sha1 = "444effd2e6ff1064146c74aa41fa864085d82805"
+os = "windows"
+
+    [[gh_cli.download]]
+    sha256 = "5b2c26ca6494d5bb32e94ec12e20fe7ba6af229766a9d5f4b7ceb1f0216ec5f8"
+    url = "https://github.com/JuliaBinaryWrappers/gh_cli_jll.jl/releases/download/gh_cli-v2.63.2+0/gh_cli.v2.63.2.i686-w64-mingw32.tar.gz"
+[[gh_cli]]
+arch = "powerpc64le"
+git-tree-sha1 = "ca7ddc27b89fc0ea6819dd975384d0d71dce15e8"
+libc = "glibc"
+os = "linux"
+
+    [[gh_cli.download]]
+    sha256 = "dfb7a9a01913c92944150cb879392369ebc5f2684aae91241dcc6fc2b6bb3368"
+    url = "https://github.com/JuliaBinaryWrappers/gh_cli_jll.jl/releases/download/gh_cli-v2.63.2+0/gh_cli.v2.63.2.powerpc64le-linux-gnu.tar.gz"
+[[gh_cli]]
+arch = "x86_64"
+git-tree-sha1 = "25fa158b9f0b4590cdde73f6f7939e863d6cf73d"
+os = "macos"
+
+    [[gh_cli.download]]
+    sha256 = "c4f6ada459ea8c054f0b622a2c8275c510a08626cd05d34ca44496f1092c6c00"
+    url = "https://github.com/JuliaBinaryWrappers/gh_cli_jll.jl/releases/download/gh_cli-v2.63.2+0/gh_cli.v2.63.2.x86_64-apple-darwin.tar.gz"
+[[gh_cli]]
+arch = "x86_64"
+git-tree-sha1 = "50a5981906fdb8a1636569bcd31cf779dbdf0666"
+libc = "glibc"
+os = "linux"
+
+    [[gh_cli.download]]
+    sha256 = "5012bb13950945bc214d872de6e3ede7d3b6bea9833e44d5b1e4eb4a6a73788d"
+    url = "https://github.com/JuliaBinaryWrappers/gh_cli_jll.jl/releases/download/gh_cli-v2.63.2+0/gh_cli.v2.63.2.x86_64-linux-gnu.tar.gz"
+[[gh_cli]]
+arch = "x86_64"
+git-tree-sha1 = "134e993abef250a60da09ea634bde3aee5bb2fc6"
+libc = "musl"
+os = "linux"
+
+    [[gh_cli.download]]
+    sha256 = "518e8ff31c020f14273a66e2f7efd79c233145d065977651692872bbb61d40fd"
+    url = "https://github.com/JuliaBinaryWrappers/gh_cli_jll.jl/releases/download/gh_cli-v2.63.2+0/gh_cli.v2.63.2.x86_64-linux-musl.tar.gz"
+[[gh_cli]]
+arch = "x86_64"
+git-tree-sha1 = "cdc9b7bf07da296b849d2cc0fa134de836cf4e53"
+os = "freebsd"
+
+    [[gh_cli.download]]
+    sha256 = "0d7b2b55c14e1fbf7abdeacef87e0d29fe7ecb582b9634c2c6d6091cb7350257"
+    url = "https://github.com/JuliaBinaryWrappers/gh_cli_jll.jl/releases/download/gh_cli-v2.63.2+0/gh_cli.v2.63.2.x86_64-unknown-freebsd.tar.gz"
+[[gh_cli]]
+arch = "x86_64"
+git-tree-sha1 = "32878b9889a305a07e4f0aac82cfd3d219b8ee58"
+os = "windows"
+
+    [[gh_cli.download]]
+    sha256 = "dd5b298033b4ad5ac44b89f935c14a79083de1db3eadbb32eb0fa5e5eac323c6"
+    url = "https://github.com/JuliaBinaryWrappers/gh_cli_jll.jl/releases/download/gh_cli-v2.63.2+0/gh_cli.v2.63.2.x86_64-w64-mingw32.tar.gz"
